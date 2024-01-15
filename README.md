@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **ydkristanto/ydkristanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently working as a researcher and lecturer at Sanata Dharma University. Feel free to connect with me on Twitter [@yosepdwik](https://twitter.com/yosepdwik) to stay updated on my latest activities and insights.
